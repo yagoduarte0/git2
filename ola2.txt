@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 olá, mundo!
 
 hoje é dia 15/03
 
 criando mais uma linha de código
+=======
+Olá mundo
+>>>>>>> fA
